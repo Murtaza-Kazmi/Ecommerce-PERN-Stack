@@ -16,5 +16,5 @@ Engineered by:
 - Murtaza Kazmi
 
 Snapshots:
-![alt text](https://github.com/Murtaza-Kazmi/Ecommerce-PERN-Stack/blob/master/Current Home Page.jpg?raw=true)
+![alt text](https://github.com/Murtaza-Kazmi/Ecommerce-PERN-Stack/blob/master/Current\ Home\ Page.jpg?raw=true)
 
