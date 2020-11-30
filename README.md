@@ -1,4 +1,4 @@
-PERN Stack Ecommerce API developed as part of the course Database Systems
+PERN Stack Ecommerce API
 
 #Installation (Development):
 1. Install postgresql
@@ -11,7 +11,6 @@ PERN Stack Ecommerce API developed as part of the course Database Systems
 8. Go to localhost:3000
 
 Engineered by:
-- Mansoor Shaikh
 - Jawad Mustafa
 - Murtaza Kazmi
 
