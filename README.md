@@ -23,3 +23,5 @@ Snapshots:
 ![login_page](https://github.com/Murtaza-Kazmi/Ecommerce-PERN-Stack/blob/master/Current_Login_Page.PNG)
 
 
+Special thanks to Mansoor Shaikh for his continuous support.
+
