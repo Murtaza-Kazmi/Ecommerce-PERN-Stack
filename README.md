@@ -11,8 +11,8 @@ PERN Stack Ecommerce API
 8. Go to localhost:3000
 
 Engineered by:
-- Jawad Mustafa
 - Murtaza Kazmi
+- Jawad Mustafa
 
 Snapshots:
 
